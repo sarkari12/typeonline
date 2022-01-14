@@ -1,0 +1,291 @@
+/* background */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-attachment: fixed;
+    background-size: cover;
+    color:black;
+    max-width:1050px;
+    margin:auto;
+    border-style: groove;
+    border-width: 2px;
+}
+
+p {
+    font-size:17px;
+    color:#02366a;
+  	text-align:left;
+  	text-indent:50px;
+}
+
+a, li {
+  font-size:20px;
+  color:#0a79e8;
+}
+.logo {
+    background-color: #FFFFF;
+	background-repeat: no-repeat;
+	background-position: centre top;
+	text-align: right;
+	max-width: 1050px;
+	max-height: 200x;
+	float: centre;
+}
+
+.lo {
+    max-width: 1050px;
+    background-color: #320105;
+}
+
+.logo h1 {
+    text-align:center;
+    color:white;
+    font-size:40px;
+    font-weight: bold;
+}
+
+.logo p {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size:30px;
+    color:#54575a;
+}
+
+h2 {
+    font-size:25px;
+    color:#54575a;
+}
+
+h3 {
+    font-size:23px;
+    color:#54575a;
+}
+
+h4 {
+    font-size:16px;
+    color:#54575a;
+}
+.word {
+  background-color: #f0f0f;
+  color: #212529;
+  padding: 0 0.2em;
+  border-radius: 0.15em;
+}
+
+.meas_container{
+    background-color: rgba(255, 230, 240,0.5);
+}
+
+.row{
+    font-size: 30px;
+}
+
+.title{
+    font-size: 14px;
+}
+
+#content{
+    height: 225px;
+    background-color: rgba(255 255 255 0.2);
+    margin: 10px auto;
+    font-size: 30px;
+    word-spacing: 25px;
+    overflow: hidden;
+    padding: 0 5px;
+    line-height: 42px;
+    
+}
+
+.change{
+    height: 25px;
+    font-size: 16px;
+}
+
+#input{
+    background-color: lightgrey;
+    width: 100%;
+    height: 150px;
+    font-size: 30px;
+    padding: 10px;
+    color: blue;
+}
+
+.restart{
+    margin-top: 10px;
+    opacity: 0.8;
+    float: right;
+    
+}
+
+.btn-primary{
+    background: rgba(255, 77, 77, 0.8);
+    
+}
+
+.btn-primary:focus,.btn-primary:active,.btn-primary:hover{
+    background: rgb(255, 77, 77);
+    
+}
+
+.scoreDown, .scoreUp{
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.scoreDown{
+    background: white;
+}
+
+.scoreUp{
+    background: white;
+    color: black;
+}
+
+.modal{
+    
+}
+
+.activeWord{
+    background-color: grey;
+    color:aliceblue;
+    border-radius: 8px;
+}
+
+.wrongCharacter{
+    color:red;
+}
+
+.correctCharacter{
+    color:green;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: grey;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.dropdown-item {
+    background-color: grey;
+}
+
+.dropdown-menu {
+    background-color: grey;
+}
+.topnav a.active {
+  background-color: blue;
+  color: white;
+}
+
+.footer-basic {
+  padding:40px 0;
+  background-color:#ffffff;
+  color:#4b4c4d;
+}
+
+.footer-basic ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic li {
+  padding:0 10px;
+}
+
+.footer-basic ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity:1;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 8px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+
+.bu {
+    border-style: groove;
+    border-width: 2px;
+    margin:10px;
+  }
+  
+.but {
+    margin: 25px
+}
+
+#traff{
+ position:relative;
+ width:auto;
+ margin-top:1em;
+ background-color:#edeffe;
+ border:2px solid #f8feff;
+ text-align:left;
+ box-shadow:.2em .22em .24em #a0a0ed;
+ -webkit-box-shadow:.2em .22em .24em #a0a0ed;
+ -moz-border-radius:.8em;
+ -webkit-border-radius:.8em;
+ -khtml-border-radius:.8em;border-radius:.8em;
+}
+#traff .traf{
+ position:relative;
+ margin:4px 1px 2px 1px;
+ font-weight:800;
+ text-align:center;
+}
+#traff .traf sup, #f_sub sup{
+ font-weight:normal;
+ font-style:italic;
+}
+#traff .su { text-decoration: underline; }
+#traff #dtnow { color:blue; }
