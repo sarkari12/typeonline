@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+        <title>RO/ARO English Typing Practice Sets | TypeOnline.in</title>
+               <meta name="description" content="Type Online is a collection of free Hindi and English Typing Practice Tests for All State Exams.">
+  <meta name="keywords" content="Type Online, 10fast fingers, english typing, typing practice, typing test 10 minutes, SSC typing, State Exam Typing Online,">
+  <meta property="og:title" content="Typing Speed Test - Online Typing Test">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.typeonline.in">
+  <link rel=“canonical” href=“https://typeonline.in/en/hc/” />
+       <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="/css/styles.pure.css">
+        <link rel="icon" href="/img/logo.png">
+    </head>          <body class="bg-light">
+              
+                       <div class="container">
+            <div class="text-center">
+                        <div class="logo lo"><br>
+        <h1><img src="/img/logo.png" alt="Typing Test" width="50px" height="50px" class="d-inline-block align-center">TYPEONLINE.IN</h1>
+<p>Free Hindi and English Typing - a <a href="https://www.sarkari12.com">SARKARI12</a> initiative</p>
+<p><img src="/img/new.gif" width="30" height="30" alt="new"> Exam Mode With Typing Error Word HighLight <a href="/new.php" target="_blank"><b>HINDI</b></a> || <a href="/neweng.php" target="_blank"><b>ENGLISH</b></a> || <a href="/newroaro.php" target="_blank"><b>RO/ARO</b></a></p>
+<p>-----</p>
+</div>               <div class="topnav">
+  <a href="/">Home</a>
+  <a href="/hi">Hindi Typing</a>
+  <a href="/en">English Typing</a>
+  <a href="/en/ssc">SSC Typing</a>
+  <a href="/converter">Converter</a>
+  <a href="/gk-hindi">GK in Hindi</a>
+  <a href="/tutor">Typing Tutor</a>
+                  
+</div>
+<br>      <div class="container">
+      <div class="row">
+           <div class="col-sm-9">
+               <p class="text-center">Welcome to Typing Test for Candidates, who are appearing for HighCourt RO/ARO Exam conducted by NTA (National Testing Agency)</p>
+                <div class="row">
+                    
+                    
+                    <div class="col-3 measurement">
+                        <div  class="meas_container">
+                            <div id="wpm" class="value"> 0
+                            </div>
+                            <div class="title">
+                                <span>WPM</span>
+                            </div>
+                        </div>
+                        <div class="change">
+                            <span id="wpmChange"></span>
+                        </div>
+                    
+                    </div>
+                    <div class="col-3 measurement">
+                        <div  class="meas_container">
+                            <div id="cpm" class="value"> 0
+                            </div>
+                            <div class="title">
+                                <span>CPM</span>
+                            </div>
+                        </div>
+                        <div class="change">
+                            <span id="cpmChange"></span>
+                        </div>
+                    
+                    </div>
+                    <div class="col-3 measurement">
+                        <div  class="meas_container">
+                            <div id="accuracy" class="value"> 0%
+                            </div>
+                            <div class="title">
+                                <span>Accuracy</span>
+                            </div>
+                        </div>
+                        <div class="change">
+                            <span id="accuracyChange"></span>
+                        </div>
+                    
+                    </div>
+                    <div class="col-3 measurement">
+                        <div  class="meas_container">
+                            <div id="timeLeft" class="value"> 60
+                            </div>
+                            <div class="title">
+                                <span>Time Left</span>
+                            </div>
+                        </div>
+                        
+                    
+                    </div>
+                </div>
+                <!-- test words -->
+                <div id="content" class="text-center" >
+                   
+                </div>
+ <!-- Text Input -->
+                <div>
+                    <input type="text" placeholder ="type here" class="text-center" id="input" >
+                </div>
+    <!-- restart button -->
+                
+                <div class="restart">
+                    <button type="button" class="btn btn-primary btn-lg"
+                            onclick="location.reload()" >
+                    Restart
+                    </button>
+                </div>
+                <hr>
+                <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2365043579024713"
+     data-ad-slot="1262447023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+
+                    <p>Here you will get all typing data starting form minute 1 to 30. Starting from basic will be helpful for your practice
+                    and you will motivate yourself after each successful completion of typing practice set.</p>
+                    
+                    <br>
+                    <hr>
+                    
+              <h3>Typing Test Practice For RO/ARO Computer Knowledge Test</h3>
+              <br>
+
+    <div class="col bu">
+              <h3>Typing - 1 Minute</h3>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para1.php" role="button">Test 1</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para2.php" role="button">Test 2</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para3.php" role="button">Test 3</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para4.php" role="button">Test 4</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para5.php" role="button">Test 5</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para6.php" role="button">Test 6</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para7.php" role="button">Test 7</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para8.php" role="button">Test 8</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para9.php" role="button">Test 9</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para10.php" role="button">Test 10</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para11.php" role="button">Test 11</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para12.php" role="button">Test 12</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para13.php" role="button">Test 13</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para14.php" role="button">Test 14</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para15.php" role="button">Test 15</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para16.php" role="button">Test 16</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para17.php" role="button">Test 17</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para18.php" role="button">Test 18</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para19.php" role="button">Test 19</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para20.php" role="button">Test 20</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para21.php" role="button">Test 21</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para22.php" role="button">Test 22</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para23.php" role="button">Test 23</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para24.php" role="button">Test 24</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/1/para25.php" role="button">Test 25</a>
+    </div>
+    <div class="col bu">
+            <h3>Typing - 2 Minute</h3>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para1.php" role="button">Test 1</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para2.php" role="button">Test 2</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para3.php" role="button">Test 3</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para4.php" role="button">Test 4</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para5.php" role="button">Test 5</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para6.php" role="button">Test 6</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para7.php" role="button">Test 7</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para8.php" role="button">Test 8</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para9.php" role="button">Test 9</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para10.php" role="button">Test 10</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para11.php" role="button">Test 11</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para12.php" role="button">Test 12</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para13.php" role="button">Test 13</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para14.php" role="button">Test 14</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para15.php" role="button">Test 15</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para16.php" role="button">Test 16</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para17.php" role="button">Test 17</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para18.php" role="button">Test 18</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para19.php" role="button">Test 19</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para20.php" role="button">Test 20</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para21.php" role="button">Test 21</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para22.php" role="button">Test 22</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para23.php" role="button">Test 23</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para24.php" role="button">Test 24</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/2/para25.php" role="button">Test 25</a>
+    </div>
+    <div class="col bu">
+    <h3>Typing - 5 Minute</h3>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para1.php" role="button">Test 1</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para2.php" role="button">Test 2</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para3.php" role="button">Test 3</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para4.php" role="button">Test 4</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para5.php" role="button">Test 5</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para6.php" role="button">Test 6</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para7.php" role="button">Test 7</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para8.php" role="button">Test 8</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para9.php" role="button">Test 9</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para10.php" role="button">Test 10</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para11.php" role="button">Test 11</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para12.php" role="button">Test 12</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para13.php" role="button">Test 13</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para14.php" role="button">Test 14</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para15.php" role="button">Test 15</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para16.php" role="button">Test 16</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para17.php" role="button">Test 17</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para18.php" role="button">Test 18</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para19.php" role="button">Test 19</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para20.php" role="button">Test 20</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para21.php" role="button">Test 21</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para22.php" role="button">Test 22</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para23.php" role="button">Test 23</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para24.php" role="button">Test 24</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/5/para25.php" role="button">Test 25</a>
+    </div>
+  
+  <br>
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2365043579024713"
+     data-ad-slot="1262447023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  <br>
+    <div class="col bu">
+              <h3>Typing - 10 Minute</h3>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para1.php" role="button">Test 1</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para2.php" role="button">Test 2</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para3.php" role="button">Test 3</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para4.php" role="button">Test 4</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para5.php" role="button">Test 5</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para6.php" role="button">Test 6</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para7.php" role="button">Test 7</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para8.php" role="button">Test 8</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para9.php" role="button">Test 9</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para10.php" role="button">Test 10</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para11.php" role="button">Test 11</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para12.php" role="button">Test 12</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para13.php" role="button">Test 13</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para14.php" role="button">Test 14</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para15.php" role="button">Test 15</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para16.php" role="button">Test 16</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para17.php" role="button">Test 17</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para18.php" role="button">Test 18</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para19.php" role="button">Test 19</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para20.php" role="button">Test 20</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para21.php" role="button">Test 21</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para22.php" role="button">Test 22</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para23.php" role="button">Test 23</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para24.php" role="button">Test 24</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para25.php" role="button">Test 25</a>
+    </div>
+
+    <div class="col bu">
+            <h3>Typing - 15 Minute</h3>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para1.php" role="button">Test 1</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para2.php" role="button">Test 2</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para3.php" role="button">Test 3</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para4.php" role="button">Test 4</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para5.php" role="button">Test 5</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para6.php" role="button">Test 6</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para7.php" role="button">Test 7</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para8.php" role="button">Test 8</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para9.php" role="button">Test 9</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para10.php" role="button">Test 10</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para11.php" role="button">Test 11</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para12.php" role="button">Test 12</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para13.php" role="button">Test 13</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para14.php" role="button">Test 14</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para15.php" role="button">Test 15</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para16.php" role="button">Test 16</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para17.php" role="button">Test 17</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para18.php" role="button">Test 18</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para19.php" role="button">Test 19</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para20.php" role="button">Test 20</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para21.php" role="button">Test 21</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para22.php" role="button">Test 22</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para23.php" role="button">Test 23</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para24.php" role="button">Test 24</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/15/para25.php" role="button">Test 25</a>
+    </div>
+    <div class="col bu">
+    <h3>Typing - 20 Minute</h3>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para1.php" role="button">Test 1</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para2.php" role="button">Test 2</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para3.php" role="button">Test 3</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para4.php" role="button">Test 4</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para5.php" role="button">Test 5</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para6.php" role="button">Test 6</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para7.php" role="button">Test 7</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para8.php" role="button">Test 8</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para9.php" role="button">Test 9</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para10.php" role="button">Test 10</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para11.php" role="button">Test 11</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para12.php" role="button">Test 12</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para13.php" role="button">Test 13</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para14.php" role="button">Test 14</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para15.php" role="button">Test 15</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para16.php" role="button">Test 16</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para17.php" role="button">Test 17</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para18.php" role="button">Test 18</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para19.php" role="button">Test 19</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para20.php" role="button">Test 20</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para21.php" role="button">Test 21</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para22.php" role="button">Test 22</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para23.php" role="button">Test 23</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para24.php" role="button">Test 24</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/30/para25.php" role="button">Test 25</a>
+    </div>
+</div>
+                <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2365043579024713"
+     data-ad-slot="1262447023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+          <div class="col-sm-3">
+                
+   <div style="border:1px solid #000000;padding:2px;width:100%;font-size:80%;font-weight:bold;">
+      <img src="/include/counter.gif" width="16" height="16" border="0" /> Visitor Statistics 
+   </div>
+
+   <div style="border:1px solid #000000;padding:2px;width:100%;font-size:80%;">
+      » 1 Online<br />   
+      » 335 Today<br />
+      » 219 Yesterday<br />
+      » 1394 Week<br />
+      » 6049 Month<br />
+      » 9250 Year<br />
+      » 41450 Total   
+   </div>
+
+   <div style="border:1px solid #000000;padding:2px;width:100%;font-size:80%;">
+      Record: 551 (07.01.2022)
+   </div>
+ <hr>
+<a href="/index.php">
+<img src="/img/banner1.png" alt="type online" width="95%">
+</a>
+<hr>                             <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2365043579024713"
+     data-ad-slot="1262447023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>                             <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2365043579024713"
+     data-ad-slot="1262447023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>              <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2365043579024713"
+     data-ad-slot="1262447023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                             
+          </div>
+ </div>  
+  </div>  
+  <hr>
+ <div class="container">
+      <div class="row">
+           <div class="col-sm-9">
+               <div class="row">
+           <div class="col-sm-6">
+               <h3>Free English Typing Test Online - 10 Minutes</h3>
+<a class="btn btn-danger col-3 m-2" href="/en/hc/10/para1.php" role="button">Test 1</a>
+<a class="btn btn-danger col-3 m-2" href="/en/ssc/10/para2.php" role="button">Test 2</a>
+<a class="btn btn-danger col-3 m-2" href="/en/mid/10/para3.php" role="button">Test 3</a>
+<a class="btn btn-danger col-3 m-2" href="/en/hard/10/para4.php" role="button">Test 4</a>
+<a class="btn btn-danger col-3 m-2" href="/en/norm/10/para5.php" role="button">Test 5</a>
+           </div>
+          <div class="col-sm-6">
+              <h3>Free Hindi Typing Test Online - 10 Minute</h3>
+<a class="btn btn-danger col-3 m-2" href="/hi/norm/10/para1.php" role="button">Test 1</a>
+<a class="btn btn-danger col-3 m-2" href="/hi/mid/10/para2.php" role="button">Test 2</a>
+<a class="btn btn-danger col-3 m-2" href="/hi/mid/10/para3.php" role="button">Test 3</a>
+<a class="btn btn-danger col-3 m-2" href="/hi/hard/10/para4.php" role="button">Test 4</a>
+<a class="btn btn-danger col-3 m-2" href="/hi/norm/10/para5.php" role="button">Test 5</a>
+</div>
+ </div>
+ <hr>
+                 <a href="/index.php"><img src="/img/banner.png" alt="type online" width="95%"></a>
+<hr>
+               <p>"You must use laptop/desktop for you typing practice, as in exam hall you will give your test in computer which has a wider screen and it can casue trouble for you if you are practicing in a mobile using OTG Cable." It's a experience of one of a selected close friend.</p>
+  <p>"टाइपिंग अभ्यास के लिए आपको लैपटॉप/डेस्कटॉप का उपयोग करना चाहिए, क्योंकि परीक्षा हॉल में आप कंप्यूटर में अपनी परीक्षा देंगे जिसमें एक बड़ी स्क्रीन है और यदि आप ओटीजी केबल का उपयोग करके मोबाइल में अभ्यास कर रहे हैं तो यह आपके लिए परेशानी का कारण बन सकता है।"</p>
+<hr>
+     <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2365043579024713"
+     data-ad-slot="1262447023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+     <hr>
+        <h2 style="text-align:center;">Popular Tags<h2>
+     <p>type online, typeonline.in, 10fast fingers, 10 fast fingers, typing practice, online typing test 10 minutes, online typing test 15 minutes, Typer Online, ssc typing, typing free, Typing Online, NTA Typing Practice, RO typing practice, aro typing practice, ro aro typing, nta ro aro typing, highcourt typing, highcourt ro aro english typing, english typing 5 minutes, Online typing 2 minutes, typing 2 min, english typing 10 minutes, typing practice set, english typing test practice, online english typing, online english typing practice, typing 10 minutes, english typing practice, typing practice, online typing practice, typing practice online, typing practice paragraphs, typing practice test, english typing practice, keyboard typing practice, touch typing practice, free typing practice online, free online typing practice, hindi typing practice, typing practice for beginners, paragraph typing practice, typing practice paragraph, typing practice software, fast typing practice, typing practice games, number typing practice, typing practice home row, hindi typing practice online, paragraph for typing practice, typing practice app, english typing practice book, touch typing practice online, free typing practice, paragraph for typing practice, online english typing practice, typing practice exercises, computer typing practice, hindi typing practice paragraph, sentence typing practice, best software for typing practice, kids typing practice, hindi typing practice chart, online typing practice test in english, hindi typing practice book pdf, typing practice online paragraph, typing practice software download, typing practice pdf, typing practice online test</p>
+           </div>
+          <div class="col-sm-3">
+               <ul>
+                <li><a href="/en/hc/10/para1.php" role="button">RO ARO Typing Test 1</a></li>
+<li><a href="/en/ssc/10/para2.php" role="button">SSC Typing Test Test 2</a></li>
+<li><a href="/en/mid/10/para3.php" role="button">English Typing Test 3</a></li>
+<li><a href="/en/hard/10/para4.php" role="button">English Typing Test 4</a></li>
+<li><a href="/en/norm/10/para5.php" role="button">English Typing Test 5</a></li>
+            </ul>
+            <hr>
+              <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2365043579024713"
+     data-ad-slot="1262447023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>  
+</div>   <div class="footer-basic">
+        <footer>
+            <ul class="list-inline">
+                <li class="list-inline-item"><a href="/">Home</a></li>
+                <li class="list-inline-item"><a href="/site.php">Images</a></li>
+                <li class="list-inline-item"><a href="/pages">Helpful Pages</a></li>
+                <li class="list-inline-item"><a href="/Keywords.php">KeyWords</a></li>
+                <li class="list-inline-item"><a href="/about.php">About</a></li>
+                <li class="list-inline-item"><a href="/privacy.php">Privacy Policy</a></li>
+            </ul>
+            <p class="copyright">© 2020-<script>document.write(new Date().getFullYear())</script> TYPEONLINE.IN . All Rights Reserved |  Content only for Educational Purpose (Designed by PK)</p>
+        </footer>
+    </div>         <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.debug.js"></script>
+        
+        <script type="text/javascript" src="/js/dataModule.js"></script>
+        <script type="text/javascript" src="/js/UIModule.js"></script>
+        <script type="text/javascript" src="/js/certificateModule.js"></script>
+         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2365043579024713"
+     crossorigin="anonymous"></script>
+     <script data-host="http://coinbtx.com/seo/Script/public" data-dnt="false" src="http://coinbtx.com/seo/Script/public/js/script.js" id="ZwSg9rf6GA" async defer></script>
+     
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-184638383-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-184638383-2');
+</script>                <script type="text/javascript" src="/en/hc/js/para1.js"></script>
+        <script type="text/javascript" src="/js/eventsModule.js"></script>
+        <script type="text/javascript" src="/js/code60.js"></script>
+    </body>
+</html>
